@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 67aaf51f2973b454690626bc05cb2d34
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cuerpo
+    21300002: Pierna Izquierda
+    21300004: Pierna Derecha
+    21300006: Brazo Izquierdo
+    21300008: Brazo Derecho
+    21300010: Ojo Derecho
+    21300012: Ojo Izquierdo
+    21300014: Boca
+    21300016: Cola
+    21300018: Center Point
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 704
+        width: 136
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pierna Izquierda
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 758
+        width: 21
+        height: 53
+      alignment: 9
+      pivot: {x: .0833725706, y: .967203379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pierna Derecha
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 758
+        width: 28
+        height: 63
+      alignment: 9
+      pivot: {x: .0696149543, y: .971652567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo Izquierdo
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 758
+        width: 63
+        height: 51
+      alignment: 9
+      pivot: {x: .971653521, y: .969341218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo Derecho
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 758
+        width: 68
+        height: 46
+      alignment: 9
+      pivot: {x: .978242755, y: .959347904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ojo Derecho
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 631
+        width: 22
+        height: 49
+      alignment: 9
+      pivot: {x: .137190387, y: .540724158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ojo Izquierdo
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 632
+        width: 17
+        height: 48
+      alignment: 9
+      pivot: {x: .147863045, y: .530235291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boca
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 647
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: .590702295, y: .896827698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cola
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 644
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: .939907849, y: .958287299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Center Point
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 650
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
